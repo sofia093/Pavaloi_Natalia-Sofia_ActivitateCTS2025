@@ -1,0 +1,1 @@
+# Pavaloi_Natalia-Sofia_ActivitateCTS2025
