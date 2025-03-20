@@ -7,6 +7,7 @@ public class Rezervare extends ARezervare{
     }
 
     public Rezervare(String nume, int i, String s, String s1) {
+        super(nume,i,s,s1);
     }
 
 
