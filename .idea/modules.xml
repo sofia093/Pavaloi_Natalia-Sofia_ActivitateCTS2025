@@ -4,13 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/BuilderV2/BuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/Facade/Facade.iml" filepath="$PROJECT_DIR$/BuilderV2/Facade/Facade.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethod/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethodA/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethodA/FactoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderV2/FactoryMethodB/FactoryMethodB.iml" filepath="$PROJECT_DIR$/BuilderV2/FactoryMethodB/FactoryMethodB.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Pavaloi_Natalia-Sofia_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/.idea/Pavaloi_Natalia-Sofia_ActivitateCTS2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar3/Seminar3.iml" filepath="$PROJECT_DIR$/Seminar3/Seminar3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderV2/Facade/SimpleFactoryA/SimpleFactoryA.iml" filepath="$PROJECT_DIR$/BuilderV2/Facade/SimpleFactoryA/SimpleFactoryA.iml" />
     </modules>
   </component>
 </project>

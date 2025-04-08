@@ -14,16 +14,16 @@ public class Factory {
         this.pretPeSuta = pretPeSuta;
     }
 
-    public Supa getSupa(TipSupe tipSupe, String ingrediente, double extraSupa) {
+    public Supa createSupa(TipSupe tipSupe, String ingrediente, double extraSupa) {
         switch (tipSupe) {
             case LEGUME:
-                SupaLegume supaLegume = new SupaLegume(200, pretPeSuta, ingrediente, extraSupa);
+                SupaLegume supaLegume = new SupaLegume(gramaj, pretPeSuta, ingrediente, extraSupa);
                 return supaLegume;
             case CIUPERCI:
-                SupaCiuperci supaCiuperci = new SupaCiuperci(200, pretPeSuta, ingrediente, extraSupa);
+                SupaCiuperci supaCiuperci = new SupaCiuperci(gramaj, pretPeSuta, ingrediente, extraSupa);
                 return supaCiuperci;
             case VITA :
-                SupaVita supaVita = new SupaVita(250, pretPeSuta, ingrediente, extraSupa);
+                SupaVita supaVita = new SupaVita(gramaj, pretPeSuta, ingrediente, extraSupa);
                 return supaVita;
             default: return null;
         }
