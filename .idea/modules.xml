@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BuilderV2/BuilderB/BuilderB.iml" filepath="$PROJECT_DIR$/BuilderV2/BuilderB/BuilderB.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/BuilderV2/BuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/Facade/Facade.iml" filepath="$PROJECT_DIR$/BuilderV2/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethodA/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethodA/FactoryMethod.iml" />
