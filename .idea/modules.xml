@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethodA/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethodA/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/FactoryMethodB/FactoryMethodB.iml" filepath="$PROJECT_DIR$/BuilderV2/FactoryMethodB/FactoryMethodB.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/BuilderB/Seminar8/FlyweightA/FlyweightA.iml" filepath="$PROJECT_DIR$/BuilderV2/BuilderB/Seminar8/FlyweightA/FlyweightA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderV2/BuilderB/Seminar9/ObserverF10/ObserverF10.iml" filepath="$PROJECT_DIR$/BuilderV2/BuilderB/Seminar9/ObserverF10/ObserverF10.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Pavaloi_Natalia-Sofia_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/.idea/Pavaloi_Natalia-Sofia_ActivitateCTS2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/BuilderB/PrototypeB/PrototypeB.iml" filepath="$PROJECT_DIR$/BuilderV2/BuilderB/PrototypeB/PrototypeB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar1/Seminar1.iml" filepath="$PROJECT_DIR$/Seminar1/Seminar1.iml" />
@@ -16,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar4/Seminar4.iml" filepath="$PROJECT_DIR$/Seminar4/Seminar4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6/Seminar6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuilderV2/BuilderB/Seminar9/Seminar9.iml" filepath="$PROJECT_DIR$/BuilderV2/BuilderB/Seminar9/Seminar9.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/Facade/SimpleFactoryA/SimpleFactoryA.iml" filepath="$PROJECT_DIR$/BuilderV2/Facade/SimpleFactoryA/SimpleFactoryA.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/BuilderV2/Singleton/Singleton.iml" />
     </modules>
