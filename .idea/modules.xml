@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/Strategy/Seminar9.iml" filepath="$PROJECT_DIR$/Strategy/Seminar9.iml" />
       <module fileurl="file://$PROJECT_DIR$/SimpleFactoryA/SimpleFactoryA.iml" filepath="$PROJECT_DIR$/SimpleFactoryA/SimpleFactoryA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyA/StrategyA.iml" filepath="$PROJECT_DIR$/StrategyA/StrategyA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemplateF/TemplateF.iml" filepath="$PROJECT_DIR$/TemplateF/TemplateF.iml" />
     </modules>
