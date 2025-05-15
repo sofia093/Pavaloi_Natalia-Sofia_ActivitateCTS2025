@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BuilderB/BuilderB.iml" filepath="$PROJECT_DIR$/BuilderB/BuilderB.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/BuilderV2/BuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsabilityB/ChainOfResponsabilityB.iml" filepath="$PROJECT_DIR$/ChainOfResponsabilityB/ChainOfResponsabilityB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfResponsabilityF/ChainOfResponsabilityF.iml" filepath="$PROJECT_DIR$/ChainOfResponsabilityF/ChainOfResponsabilityF.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResposability/ChainOfResposability.iml" filepath="$PROJECT_DIR$/ChainOfResposability/ChainOfResposability.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethodA/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethodA/FactoryMethod.iml" />
@@ -23,6 +24,7 @@
       <module fileurl="file://$PROJECT_DIR$/SimpleFactoryA/SimpleFactoryA.iml" filepath="$PROJECT_DIR$/SimpleFactoryA/SimpleFactoryA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateF/TemplateF.iml" filepath="$PROJECT_DIR$/TemplateF/TemplateF.iml" />
     </modules>
   </component>
 </project>
