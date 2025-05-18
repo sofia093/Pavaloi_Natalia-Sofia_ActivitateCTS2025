@@ -7,7 +7,6 @@ import clase.STB.Client;
 import clase.STB.MijlocTransport;
 import clase.STB.Tramvai;
 import clase.Spital;
-import clase.Subiect;
 
 //A12
 public class Main {
