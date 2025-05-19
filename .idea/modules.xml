@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterA/AdapterA.iml" filepath="$PROJECT_DIR$/AdapterA/AdapterA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterB/AdapterB.iml" filepath="$PROJECT_DIR$/AdapterB/AdapterB.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderB/BuilderB.iml" filepath="$PROJECT_DIR$/BuilderB/BuilderB.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/BuilderV2/BuilderV2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsabilityB/ChainOfResponsabilityB.iml" filepath="$PROJECT_DIR$/ChainOfResponsabilityB/ChainOfResponsabilityB.iml" />
