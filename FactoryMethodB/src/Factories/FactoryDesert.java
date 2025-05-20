@@ -1,8 +1,8 @@
 package Factories;
 
-import Clase.Cheesecake;
-import Clase.Clatite;
-import Clase.Mancare;
+import clase.Cheesecake;
+import clase.Clatite;
+import clase.Mancare;
 
 
 public class FactoryDesert implements FactoryMancare{

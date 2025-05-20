@@ -1,6 +1,6 @@
 package AdapterClase.clase;
 
-import Clase.MedicamentFarmacie;
+import clase.MedicamentFarmacie;
 
 public class Farmacie {
     private String nume;

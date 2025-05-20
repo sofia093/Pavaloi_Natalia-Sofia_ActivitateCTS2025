@@ -1,8 +1,8 @@
 package Factories;
 
-import Clase.Mancare;
-import Clase.SupaDeLegume;
-import Clase.SupaDeVita;
+import clase.Mancare;
+import clase.SupaDeLegume;
+import clase.SupaDeVita;
 
 public class FactorySupa implements FactoryMancare{
     private double cantitate;

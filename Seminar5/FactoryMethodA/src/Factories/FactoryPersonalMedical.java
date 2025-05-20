@@ -1,8 +1,8 @@
 package Factories;
 
-import Clase.Angajat;
-import Clase.Asistent;
-import Clase.Medic;
+import clase.Angajat;
+import clase.Asistent;
+import clase.Medic;
 
 public class FactoryPersonalMedical implements FactoryPersonal {
     private double spor;

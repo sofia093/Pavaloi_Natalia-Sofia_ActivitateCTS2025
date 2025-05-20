@@ -1,8 +1,8 @@
 package Factories;
 
-import Clase.Angajat;
-import Clase.Portar;
-import Clase.Secretar;
+import clase.Angajat;
+import clase.Portar;
+import clase.Secretar;
 
 public class FactoryPersonalNonMedical implements FactoryPersonal {
     private double vechime;

@@ -4,15 +4,20 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdapterA/AdapterA.iml" filepath="$PROJECT_DIR$/AdapterA/AdapterA.iml" />
       <module fileurl="file://$PROJECT_DIR$/AdapterB/AdapterB.iml" filepath="$PROJECT_DIR$/AdapterB/AdapterB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterF/AdapterF.iml" filepath="$PROJECT_DIR$/AdapterF/AdapterF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AdapterSpital/AdapterSpital.iml" filepath="$PROJECT_DIR$/AdapterSpital/AdapterSpital.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderB/BuilderB.iml" filepath="$PROJECT_DIR$/BuilderB/BuilderB.iml" />
       <module fileurl="file://$PROJECT_DIR$/BuilderV2/BuilderV2.iml" filepath="$PROJECT_DIR$/BuilderV2/BuilderV2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChainOfRespB/ChainOfRespB.iml" filepath="$PROJECT_DIR$/ChainOfRespB/ChainOfRespB.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsabilityB/ChainOfResponsabilityB.iml" filepath="$PROJECT_DIR$/ChainOfResponsabilityB/ChainOfResponsabilityB.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResponsabilityF/ChainOfResponsabilityF.iml" filepath="$PROJECT_DIR$/ChainOfResponsabilityF/ChainOfResponsabilityF.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChainOfResposability/ChainOfResposability.iml" filepath="$PROJECT_DIR$/ChainOfResposability/ChainOfResposability.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompositeA/CompositeA.iml" filepath="$PROJECT_DIR$/CompositeA/CompositeA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompositeB/CompositeB.iml" filepath="$PROJECT_DIR$/CompositeB/CompositeB.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompositeF/CompositeF.iml" filepath="$PROJECT_DIR$/CompositeF/CompositeF.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecoratorB/DecoratorA.iml" filepath="$PROJECT_DIR$/DecoratorB/DecoratorA.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacadeB/Facade.iml" filepath="$PROJECT_DIR$/FacadeB/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FacadeA/FacadeA.iml" filepath="$PROJECT_DIR$/FacadeA/FacadeA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethodA/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethodA/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethodB/FactoryMethodB.iml" filepath="$PROJECT_DIR$/FactoryMethodB/FactoryMethodB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8/FlyweightA/FlyweightA.iml" filepath="$PROJECT_DIR$/Seminar8/FlyweightA/FlyweightA.iml" />
@@ -33,7 +38,9 @@
       <module fileurl="file://$PROJECT_DIR$/SimpleFactoryA/SimpleFactoryA.iml" filepath="$PROJECT_DIR$/SimpleFactoryA/SimpleFactoryA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
       <module fileurl="file://$PROJECT_DIR$/StrategyA/StrategyA.iml" filepath="$PROJECT_DIR$/StrategyA/StrategyA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrategyB/StrategyB.iml" filepath="$PROJECT_DIR$/StrategyB/StrategyB.iml" />
       <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TemplateA/TemplateA.iml" filepath="$PROJECT_DIR$/TemplateA/TemplateA.iml" />
       <module fileurl="file://$PROJECT_DIR$/TemplateF/TemplateF.iml" filepath="$PROJECT_DIR$/TemplateF/TemplateF.iml" />
     </modules>
   </component>

@@ -1,6 +1,6 @@
 package Interfete;
 
-import Clase.Pacient;
+import clase.Pacient;
 
 public interface AbstractBuilder {
     Pacient build2();

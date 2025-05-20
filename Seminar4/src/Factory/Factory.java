@@ -1,9 +1,9 @@
 package Factory;
 
-import Clase.Supa;
-import Clase.SupaCiuperci;
-import Clase.SupaLegume;
-import Clase.SupaVita;
+import clase.Supa;
+import clase.SupaCiuperci;
+import clase.SupaLegume;
+import clase.SupaVita;
 
 public class Factory {
     private int gramaj;
