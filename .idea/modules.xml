@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/ChainOfResposability/ChainOfResposability.iml" filepath="$PROJECT_DIR$/ChainOfResposability/ChainOfResposability.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompositeA/CompositeA.iml" filepath="$PROJECT_DIR$/CompositeA/CompositeA.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompositeF/CompositeF.iml" filepath="$PROJECT_DIR$/CompositeF/CompositeF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecoratorB/DecoratorA.iml" filepath="$PROJECT_DIR$/DecoratorB/DecoratorA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Facade/Facade.iml" filepath="$PROJECT_DIR$/Facade/Facade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/FactoryMethodA/FactoryMethod.iml" filepath="$PROJECT_DIR$/Seminar5/FactoryMethodA/FactoryMethod.iml" />
       <module fileurl="file://$PROJECT_DIR$/FactoryMethodB/FactoryMethodB.iml" filepath="$PROJECT_DIR$/FactoryMethodB/FactoryMethodB.iml" />
