@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/CompositeB/CompositeB.iml" filepath="$PROJECT_DIR$/CompositeB/CompositeB.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompositeC/CompositeC.iml" filepath="$PROJECT_DIR$/CompositeC/CompositeC.iml" />
       <module fileurl="file://$PROJECT_DIR$/CompositeF/CompositeF.iml" filepath="$PROJECT_DIR$/CompositeF/CompositeF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/DecoratorB/DecoratorA.iml" filepath="$PROJECT_DIR$/DecoratorB/DecoratorA.iml" />
       <module fileurl="file://$PROJECT_DIR$/FacadeA/FacadeA.iml" filepath="$PROJECT_DIR$/FacadeA/FacadeA.iml" />
       <module fileurl="file://$PROJECT_DIR$/FacadeB6/FacadeB6.iml" filepath="$PROJECT_DIR$/FacadeB6/FacadeB6.iml" />
@@ -27,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar8/FlyweightF/FlyweightF.iml" filepath="$PROJECT_DIR$/Seminar8/FlyweightF/FlyweightF.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverA/Observer.iml" filepath="$PROJECT_DIR$/ObserverA/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverA12/ObserverA12.iml" filepath="$PROJECT_DIR$/ObserverA12/ObserverA12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ObserverB/ObserverB.iml" filepath="$PROJECT_DIR$/ObserverB/ObserverB.iml" />
       <module fileurl="file://$PROJECT_DIR$/ObserverF11/ObserverF11.iml" filepath="$PROJECT_DIR$/ObserverF11/ObserverF11.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Pavaloi_Natalia-Sofia_ActivitateCTS2025.iml" filepath="$PROJECT_DIR$/.idea/Pavaloi_Natalia-Sofia_ActivitateCTS2025.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrototypeB/PrototypeB.iml" filepath="$PROJECT_DIR$/PrototypeB/PrototypeB.iml" />
